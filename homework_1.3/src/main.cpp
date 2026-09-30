@@ -87,11 +87,11 @@ void setup() {
 }
 
 void loop() {
-  // police();        allOff(); delay(400);
-  // chaser();        allOff(); delay(400);
-  // fill();          allOff(); delay(400);
-  // binaryCounter(); allOff(); delay(400);
-  // breathe();       allOff(); delay(400);
-  // heartbeat();     allOff(); delay(400);
+  police();        allOff(); delay(400);
+  chaser();        allOff(); delay(400);
+  fill();          allOff(); delay(400);
+  binaryCounter(); allOff(); delay(400);
+  breathe();       allOff(); delay(400);
+  heartbeat();     allOff(); delay(400);
   sparkle();       allOff(); delay(400);
 }

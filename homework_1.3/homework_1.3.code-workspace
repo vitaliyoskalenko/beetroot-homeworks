@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "homework_1.3",
+			"path": "."
+		},
+		{
+			"name": "homework_1.4",
+			"path": "../homework_1.4"
+		},
+		{
+			"name": "homework_1.5",
+			"path": "../homework_1.5"
+		},
+		{
+			"name": "homework_1.6",
+			"path": "../homework_1.6"
+		}
+	],
+	"settings": {}
+}
