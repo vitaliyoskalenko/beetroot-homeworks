@@ -19,6 +19,10 @@
 		{
 			"name": "miniproject",
 			"path": "../miniproject"
+		},
+		{
+			"name": "homework_2.1",
+			"path": "../homework_2.1"
 		}
 	],
 	"settings": {}
