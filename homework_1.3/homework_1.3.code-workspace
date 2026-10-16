@@ -27,6 +27,10 @@
 		{
 			"name": "homework_2.2_task_1",
 			"path": "../homework_2.2_task_1"
+		},
+		{
+			"name": "homework_2.3",
+			"path": "../homework_2.3"
 		}
 	],
 	"settings": {}
