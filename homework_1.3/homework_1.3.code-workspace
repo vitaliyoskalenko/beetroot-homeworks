@@ -35,6 +35,10 @@
 		{
 			"name": "homework_2.4",
 			"path": "../homework_2.4"
+		},
+		{
+			"name": "homework_2.5",
+			"path": "../homework_2.5"
 		}
 	],
 	"settings": {}
